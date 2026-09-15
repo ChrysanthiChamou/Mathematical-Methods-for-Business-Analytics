@@ -1,0 +1,2 @@
+Cardinality,Dimension,Accuracy,Precision,Recall,F1_Score
+5000,4,0.955333333333333,0.76,0.2375,0.361904761904762
