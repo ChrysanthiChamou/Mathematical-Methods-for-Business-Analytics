@@ -1,0 +1,6 @@
+﻿Parameter,Value
+DEA Model,BCC
+Returns to Scale,Variable Returns to Scale (VRS)
+Orientation,Output Oriented
+Inputs,"M5, M6, M7"
+Outputs,"M1, M2, M3, M4"
